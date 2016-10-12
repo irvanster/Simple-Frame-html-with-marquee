@@ -1,0 +1,11 @@
+a.menu {transition: 100ms}
+	a.menu:hover {
+    background: #000;
+    padding: 19px 40px;
+    color: #fff;
+}
+	a.menu:focus {
+    background: #000;
+    padding: 19px 40px;
+    color: #fff;
+}
